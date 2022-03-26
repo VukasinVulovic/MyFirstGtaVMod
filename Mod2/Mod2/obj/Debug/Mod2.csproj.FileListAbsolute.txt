@@ -1,0 +1,7 @@
+E:\GTAV\scripts\Mod2.dll
+E:\GTAV\scripts\Mod2.pdb
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\Mod2\Mod2\obj\Debug\Mod2.csproj.AssemblyReference.cache
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\Mod2\Mod2\obj\Debug\Mod2.csproj.CoreCompileInputs.cache
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\Mod2\Mod2\obj\Debug\Mod2.csproj.CopyComplete
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\Mod2\Mod2\obj\Debug\Mod2.dll
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\Mod2\Mod2\obj\Debug\Mod2.pdb

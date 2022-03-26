@@ -1,0 +1,10 @@
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\bin\Debug\MyMod.dll
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\bin\Debug\MyMod.pdb
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\obj\Debug\MyMod.csproj.AssemblyReference.cache
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\obj\Debug\MyMod.csproj.CoreCompileInputs.cache
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\obj\Debug\MyMod.csproj.CopyComplete
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\obj\Debug\MyMod.dll
+C:\Users\Vukasin\Desktop\MyFirstGtaVMod\MyMod\MyMod\obj\Debug\MyMod.pdb
+E:\GTAV\scripts\MyMod.dll
+E:\GTAV\scripts\MyMod.pdb
